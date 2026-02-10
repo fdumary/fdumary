@@ -2,7 +2,9 @@
 I'm Francesca Dumary, a Computer Science student from Florida Atlantic University. I specialize in Software Development and Web Development. I am proficient in Python, C++, HTML, CSS, and JavaScript. I have participated in hackathons where I created innovative programs, whether alone or as part of a team. My mission is to create solutions that make an impact on our community.
 
 ## Education
-Bachelor’s of Science in Computer Science | Expected August 2026 | Florida Atlantic University | Boca Raton, FL | GPA: 3.6
+Bachelor of Science in Computer Science | May 2024 – Aug. 2026 | Florida Atlantic University | Boca Raton, FL
+
+Associate’s in Computer Science | Aug. 2022 – May 2024  | Broward College | Fort Lauderdale, FL
 
 ## Courses
 Programming 2 | Data Structures and Algorithm Analysis | Introduction to Internet Computing | Python Programming | Computer Operating Systems | Principles of Software Engineering | Principles of Programming Languages | Introduction to Database Structures
@@ -32,6 +34,7 @@ Programming 2 | Data Structures and Algorithm Analysis | Introduction to Interne
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Projects
+[<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/20b8a6a2-adf9-47bb-895c-e77c52eb3119" />](https://github.com/fdumary/colorstackwinterhack2025-AI-Wrapped)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/cd008849-27c8-4e10-bde5-7174a593290e" />](https://github.com/fdumary/InsightAI)
 [<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/b92bb368-843d-4864-9a5f-fca68fa5d84a" />](https://github.com/fdumary/HawkEye)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/50ddbcf1-f40a-4d2b-9d5f-b86eab12c978" />](https://github.com/fdumary/HardLaunch)
@@ -43,4 +46,3 @@ Programming 2 | Data Structures and Algorithm Analysis | Introduction to Interne
 [<img width="222" height="148" alt="crisiscom" src="https://github.com/user-attachments/assets/0b241021-b714-4b35-b0c4-95fd13a0ec4b" />](https://github.com/fdumary/Crisis-Commander)
 [<img width="222" height="148" alt="studybudy" src="https://github.com/user-attachments/assets/b97143cf-9f32-4428-b26b-05b88cfaeb28" />](https://github.com/fdumary/StudyBudy)
 [<img width="222" height="148" alt="eznote" src="https://github.com/user-attachments/assets/1769096a-e7a2-42ae-9351-a2cc7e3d8d4e" />](https://devpost.com/software/eznote-54zo9j)
-[<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/20b8a6a2-adf9-47bb-895c-e77c52eb3119" />](https://github.com/fdumary/colorstackwinterhack2025-AI-Wrapped)
