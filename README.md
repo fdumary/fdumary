@@ -1,14 +1,6 @@
 ## About
 I'm Francesca Dumary, a Computer Science student from Florida Atlantic University. I specialize in Software Development and Web Development. I am proficient in Python, C++, HTML, CSS, and JavaScript. I have participated in hackathons where I created innovative programs, whether alone or as part of a team. My mission is to create solutions that make an impact on our community.
 
-## Education
-Bachelor of Science in Computer Science | May 2024 – Aug. 2026 | Florida Atlantic University | Boca Raton, FL
-
-Associate’s in Computer Science | Aug. 2022 – May 2024  | Broward College | Fort Lauderdale, FL
-
-## Courses
-Programming 2 | Data Structures and Algorithm Analysis | Introduction to Internet Computing | Python Programming | Computer Operating Systems | Principles of Software Engineering | Principles of Programming Languages | Introduction to Database Structures
-
 ## Skills
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
