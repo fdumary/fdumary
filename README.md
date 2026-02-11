@@ -26,6 +26,10 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Projects
+
+[<img width="222" height="148" alt="medium (3)" src="https://github.com/user-attachments/assets/1048e2b2-c636-42ac-8415-fca84abd3182" />](https://github.com/fdumary/AI-Companion)
+[<img width="222" height="148" alt="medium (2)" src="https://github.com/user-attachments/assets/2e9323be-eb69-4a9a-bcef-f9728bd6b1ae" />](https://github.com/fdumary/Doctor-AI)
+[<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/17db4036-cfc6-4d3e-88fd-361d9a15833f" />](https://github.com/fdumary/HealthShield)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/20b8a6a2-adf9-47bb-895c-e77c52eb3119" />](https://github.com/fdumary/colorstackwinterhack2025-AI-Wrapped)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/cd008849-27c8-4e10-bde5-7174a593290e" />](https://github.com/fdumary/InsightAI)
 [<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/b92bb368-843d-4864-9a5f-fca68fa5d84a" />](https://github.com/fdumary/HawkEye)
