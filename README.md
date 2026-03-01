@@ -1,5 +1,5 @@
 ## About
-I'm Francesca Dumary, a Computer Science student from Florida Atlantic University. I specialize in Software Development and Web Development. I am proficient in Python, C++, HTML, CSS, and JavaScript. I have participated in hackathons where I created innovative programs, whether alone or as part of a team. My mission is to develop solutions that make an impact on our community.
+I'm Francesca Dumary, a Computer Science student from Florida Atlantic University. I specialize in Software Development and Web Development. I am proficient in Python, C++, HTML, CSS, and JavaScript. I have participated in hackathons where I have created innovative programs, both alone and as part of a team. My mission is to develop solutions that make an impact on our community.
 
 ## Skills
 ### Languages
