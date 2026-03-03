@@ -40,6 +40,6 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
 [<img width="222" height="148" alt="fineprint" src="https://github.com/user-attachments/assets/61bca201-be82-4dc7-8d7a-ab88834a971c" />](https://github.com/fdumary/FinePrint)
 [<img width="222" height="148" alt="citygpt" src="https://github.com/user-attachments/assets/a6b622c6-53e8-4bf5-91a2-c7206deb6dd9" />](https://github.com/fdumary/CityGPT)
 [<img width="222" height="148" alt="bittoss" src="https://github.com/user-attachments/assets/04b386e5-fa68-42f6-888f-d3c0ddfc98ca" />](https://github.com/fdumary/bit-toss)
-[<img width="222" height="148" alt="crisiscom" src="https://github.com/user-attachments/assets/0b241021-b714-4b35-b0c4-95fd13a0ec4b" />](https://github.com/fdumary/Crisis-Commander)
+[<img width="222" height="148" alt="crisiscom" src="https://github.com/user-attachments/assets/0b241021-b714-4b35-b0c4-95fd13a0ec4b" />](https://devpost.com/software/crisis-commander)
 [<img width="222" height="148" alt="studybudy" src="https://github.com/user-attachments/assets/b97143cf-9f32-4428-b26b-05b88cfaeb28" />](https://github.com/fdumary/StudyBudy)
 [<img width="222" height="148" alt="eznote" src="https://github.com/user-attachments/assets/1769096a-e7a2-42ae-9351-a2cc7e3d8d4e" />](https://devpost.com/software/eznote-54zo9j)
