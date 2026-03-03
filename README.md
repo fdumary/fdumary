@@ -27,6 +27,8 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
 
 ## Projects
 
+[<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/871d7844-9980-4211-818f-d3cc6cab6293" />](https://github.com/fdumary/DataCleaningProg)
+[<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/78236c90-6493-4117-877e-5a320eadef19" />](https://github.com/fdumary/SafeClaw)
 [<img width="222" height="148" alt="medium (3)" src="https://github.com/user-attachments/assets/1048e2b2-c636-42ac-8415-fca84abd3182" />](https://github.com/fdumary/AI-Companion)
 [<img width="222" height="148" alt="medium (2)" src="https://github.com/user-attachments/assets/2e9323be-eb69-4a9a-bcef-f9728bd6b1ae" />](https://github.com/fdumary/Doctor-AI)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/ff86ea5f-86b8-4001-bece-d8959dc0adaf" />](https://devpost.com/software/google-adk)
