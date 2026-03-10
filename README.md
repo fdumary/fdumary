@@ -31,6 +31,8 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/78236c90-6493-4117-877e-5a320eadef19" />](https://github.com/fdumary/SafeClaw)
 [<img width="222" height="148" alt="medium (3)" src="https://github.com/user-attachments/assets/1048e2b2-c636-42ac-8415-fca84abd3182" />](https://github.com/fdumary/AI-Companion)
 [<img width="222" height="148" alt="medium (2)" src="https://github.com/user-attachments/assets/2e9323be-eb69-4a9a-bcef-f9728bd6b1ae" />](https://github.com/fdumary/Doctor-AI)
+[<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/f83c496c-4a01-4ed9-b964-5e7b1fbe971e" />](https://github.com/fdumary/Course-Recommendation-System)
+[<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/f00da3b4-05eb-4fea-aeaa-a560b1c7b968" />](https://devpost.com/software/chronoweave-stgoay)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/ff86ea5f-86b8-4001-bece-d8959dc0adaf" />](https://devpost.com/software/google-adk)
 [<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/17db4036-cfc6-4d3e-88fd-361d9a15833f" />](https://devpost.com/software/project-z9qvde)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/20b8a6a2-adf9-47bb-895c-e77c52eb3119" />](https://devpost.com/software/project-name-team-name)
