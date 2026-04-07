@@ -27,6 +27,7 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
 
 ## Projects
 
+[<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/ffd7f226-6cac-4ba0-9c5d-99ad0c27b79f" />](https://github.com/fdumary/TriageIQ)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/9875f52c-bd04-4702-81a4-91469c06410e" />](https://github.com/fdumary/BizBoard)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/7fd673ba-9a23-4bca-9aa9-25071c2de48d" />](https://github.com/fdumary/Campus-Countdown)
 [<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/871d7844-9980-4211-818f-d3cc6cab6293" />](https://github.com/fdumary/DataCleaningProg)
