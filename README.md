@@ -45,7 +45,7 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/fdumary/DataCleaningProg">
+      <a href="https://www.fau.edu/engineering/senior-design/images/eecs-group-23-spring2026.jpg">
         <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/871d7844-9980-4211-818f-d3cc6cab6293" />
       </a>
     </td>
