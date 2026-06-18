@@ -74,6 +74,28 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
   </tr>
   <tr>
     <td align="center" width="200">
+      <a href="https://devpost.com/software/llm-connect">
+        <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/855c7045-f165-4e7a-a8d6-f3a0a7d4e1e6" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://devpost.com/software/picksy">
+        <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/611f8558-b38e-4b30-ba06-b95a786ae231" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://devpost.com/software/owl-advisor">
+        <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/909667ec-5255-4fd1-9252-2a79198253c7" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://devpost.com/software/altrovia">
+        <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/a8a300e2-b1ff-44df-aa7b-26d67bdaf2cc" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
       <a href="https://devpost.com/software/snap-hunt-46cxh0">
         <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/7e2ff633-f55a-4fe0-92f4-fc6dfb990b1e" />
       </a>
@@ -140,7 +162,7 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="https://github.com/fdumary/BitToss">
+      <a href="https://devpost.com/software/bit-toss">
         <img width="222" height="148" alt="bittoss" src="https://github.com/user-attachments/assets/04b386e5-fa68-42f6-888f-d3c0ddfc98ca" />
       </a>
     </td>
