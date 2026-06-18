@@ -74,6 +74,25 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
   </tr>
   <tr>
     <td align="center" width="200">
+        <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+      </a>
+    </td>
+    <td align="center" width="200">
+        <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+      </a>
+    </td>
+    <td align="center" width="200">
+        <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://devpost.com/software/careerforge-6u5wdj">
+        <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/4fcf79eb-a30b-448b-afda-2bab28f18097" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
       <a href="https://devpost.com/software/llm-connect">
         <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/855c7045-f165-4e7a-a8d6-f3a0a7d4e1e6" />
       </a>
