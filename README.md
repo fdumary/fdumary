@@ -30,18 +30,18 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
 <table>
   <tr>
     <td align="center" width="200">
-        <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+      <a href="https://github.com/fdumary/GOLFollower">
+        <img width="222" height="148" alt="medium (3)" src="https://github.com/user-attachments/assets/f4eb36c5-bc2f-4c4d-8b57-ab273386b297" />
       </a>
     </td>
     <td align="center" width="200">
         <img width="333" height="222" alt="medium" src="https://github.com/user-attachments/assets/a9a4e9d7-ef50-4042-a383-697f59469b3a" />
-      </a>
     </td>
     <td align="center" width="200">
         <img width="333" height="222" alt="medium (2)" src="https://github.com/user-attachments/assets/a97740ec-6686-45c2-a1b5-545e58dc0acd" />
-      </a>
     </td>
     <td align="center" width="200">
+      <a href="https://github.com/user-attachments/files/29365529/Optimus.Drive.-.Project.Report.pdf">
         <img width="333" height="222" alt="medium (1)" src="https://github.com/user-attachments/assets/7d73214f-ec9d-4924-a94b-0b30bf5e22ad" />
       </a>
     </td>
@@ -93,15 +93,12 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
   <tr>
     <td align="center" width="200">
         <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
-      </a>
     </td>
     <td align="center" width="200">
         <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
-      </a>
     </td>
     <td align="center" width="200">
         <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
-      </a>
     </td>
     <td align="center" width="200">
       <a href="https://devpost.com/software/careerforge-6u5wdj">
