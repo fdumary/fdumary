@@ -28,6 +28,22 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
 ## Projects
 
 <table>
+    <tr>
+    <td align="center" width="200">
+        <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+    </td>
+    <td align="center" width="200">
+        <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+    </td>
+    <td align="center" width="200">
+        <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+    </td>
+    <td align="center" width="200">
+    <a href="https://github.com/fdumary/Whoopee-Races">
+      <img width="222" height="148" alt="medium (2)" src="https://github.com/user-attachments/assets/01fb7638-8437-44cd-8699-3e75402a9529" />
+    </a>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/fdumary/GOLFollower">
@@ -35,7 +51,9 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
       </a>
     </td>
     <td align="center" width="200">
+      <a href="https://github.com/fdumary/MuniciPAL">
         <img width="333" height="222" alt="medium" src="https://github.com/user-attachments/assets/a9a4e9d7-ef50-4042-a383-697f59469b3a" />
+      </a>
     </td>
     <td align="center" width="200">
         <img width="333" height="222" alt="medium (2)" src="https://github.com/user-attachments/assets/a97740ec-6686-45c2-a1b5-545e58dc0acd" />
@@ -95,10 +113,14 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
         <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
     </td>
     <td align="center" width="200">
-        <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+      <a href="https://devpost.com/software/lumi-jp7l2b">
+        <img width="222" height="148" alt="image" src="https://github.com/user-attachments/assets/203a60ab-d180-4acc-9f21-8340beadd7a7" />
+      </a>
     </td>
     <td align="center" width="200">
-        <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/d2cfb2fc-bc98-4836-9878-a9396d07c86f" />
+      <a href="https://devpost.com/software/crisisresponse">
+        <img width="222" height="148" alt="image" src="https://github.com/user-attachments/assets/7bd334bc-16d1-4096-acd4-24676b7b9e32" />
+      </a>
     </td>
     <td align="center" width="200">
       <a href="https://devpost.com/software/careerforge-6u5wdj">
