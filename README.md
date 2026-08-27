@@ -1,19 +1,13 @@
-## About
+## About Me
 As a CS student at FAU, I specialize in software engineering, web development, and graphic design.
 
 ## Featured Projects
 
-<a href="https://github.com/fdumary/MuniciPAL">
-    <img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/a9a4e9d7-ef50-4042-a383-697f59469b3a" />
-</a>
+[MuniciPAL](https://github.com/fdumary/MuniciPAL) - System designed to help city staff navigate complex ordinances and policies
 
-<a href="https://www.fau.edu/engineering/senior-design/images/eecs-group-23-spring2026.jpg">
-    <img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/871d7844-9980-4211-818f-d3cc6cab6293" />
-</a>
+[Automated Data Cleaner](https://www.fau.edu/engineering/senior-design/images/eecs-group-23-spring2026.jpg) - Uses AI-powered imputation to automatically clean and export datasets
 
-<a href="https://github.com/fdumary/AI-Companion">
-    <img width="222" height="148" alt="medium (3)" src="https://github.com/user-attachments/assets/1048e2b2-c636-42ac-8415-fca84abd3182" />
-</a>
+[AI Companion](https://github.com/fdumary/AI-Companion) - companion targeted for single women who feel stuck in self-discovery
 
 ## Skills
 
